@@ -1,0 +1,36 @@
+{
+  "rows": 180,
+  "per_class": {
+    "Basic information": 30,
+    "Symptoms": 30,
+    "Causes": 30,
+    "Diagnosis and tests": 30,
+    "Treatment": 30,
+    "Prevention": 30
+  },
+  "checks": {
+    "rows": 180,
+    "review_status": {
+      "pending": 180
+    },
+    "nonblank_paraphrases": 180,
+    "parents_in_frozen_train": true,
+    "metadata_matches_parents": true,
+    "exact_cross_split_candidate_duplicates": 0
+  },
+  "origin": "ai_generated",
+  "human_reviewed": false,
+  "method": "AI-authored templates with deterministic realization and source-specific overrides",
+  "authorization": "User explicitly requested generation of all 180 candidates and their direct use for training in this chat.",
+  "permitted_use": "exploratory_ai_unreviewed_augmentation",
+  "course_permission": "pending_user_confirmation",
+  "human_reviewed_protocol_satisfied": false,
+  "original_worksheet_sha256": "316bc1730e998be6da88b132b12813f1060aeb35d6882e68f20090ae14c46696",
+  "generated_csv_sha256": "e6b179070e9592341f2732a8714e0ef1a92d9c4b0796bdeef54157eccde2baa6",
+  "parent_metadata_sha256": "c392dc1d96d843aa584ab92d16e0275a0244ac1111fdaeea05e194cc42f23376",
+  "generator_sha256": "033fa556e92a72d844ed5ef5f97afeabc4f298de35d224703e19b1d6544863e7",
+  "seed": 5220,
+  "ambiguous_source_parent_ids": [
+    "9_CDC_QA/0000212.xml::0000212-2"
+  ]
+}

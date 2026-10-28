@@ -1,0 +1,10 @@
+{
+  "upstream_url": "https://github.com/abachaa/MedQuAD.git",
+  "commit": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+  "download_verified_at_utc": "2026-10-22T17:29:21.003189+00:00",
+  "xml_file_count": 11274,
+  "license": "CC BY 4.0 (see saved upstream license)",
+  "dataset_approval": "pending_user_confirmation",
+  "cross_course_reuse_permission": "pending_user_confirmation",
+  "generative_ai_permission": "pending_user_confirmation"
+}

@@ -1,0 +1,18 @@
+{
+  "trained_models": [
+    "M4",
+    "M5"
+  ],
+  "model_reload_and_prediction_match": true,
+  "original_train_n": 14158,
+  "AI_paraphrase_n": 180,
+  "augmented_train_n": 14338,
+  "same_augmented_train_sha256": "497251f9542c907e89409adc218753871706f7b9b463c5de8cd7fb440eee873d",
+  "baseline_files_preserved": 77,
+  "training_input_hashes_match": true,
+  "new_training_tests_passed": 6,
+  "human_reviewed": false,
+  "augmentation_policy": "ai_exploratory",
+  "test_evaluated": false,
+  "human_error_analysis": "pending"
+}

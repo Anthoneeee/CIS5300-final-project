@@ -1,0 +1,51 @@
+{
+  "unit_tests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "fresh_kernel_notebooks": [
+    {
+      "notebook": "01_data_preparation.ipynb",
+      "code_cells": 6,
+      "fresh_kernel": true,
+      "errors": 0
+    },
+    {
+      "notebook": "02_models_and_extensions.ipynb",
+      "code_cells": 5,
+      "fresh_kernel": true,
+      "errors": 0
+    },
+    {
+      "notebook": "03_evaluation_and_errors.ipynb",
+      "code_cells": 5,
+      "fresh_kernel": true,
+      "errors": 0
+    },
+    {
+      "notebook": "04_demo.ipynb",
+      "code_cells": 4,
+      "fresh_kernel": true,
+      "errors": 0
+    }
+  ],
+  "training_input_snapshot_matches": true,
+  "reload_prediction": {
+    "question": "What treatment options are available for asthma?",
+    "model_id": "M2",
+    "intent": "Treatment",
+    "meaning": "Asks about treatment or management options."
+  },
+  "gates": {
+    "unreviewed_augmentation": {
+      "blocked_as_expected": true,
+      "reason": "M4/M5 require real approved training paraphrases covering every class."
+    },
+    "unfrozen_final_test": {
+      "blocked_as_expected": true,
+      "reason": "Final test remains locked. Complete human reviews, train all models, then freeze."
+    }
+  },
+  "final_test_evaluated": false,
+  "M4_M5_status": "pending_real_human_review"
+}

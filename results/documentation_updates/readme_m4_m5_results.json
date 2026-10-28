@@ -1,0 +1,13 @@
+{
+  "change": "Update README status and M4/M5 table using completed development metrics; preserve accurate AI-origin records.",
+  "updated_at_utc": "2026-10-22T18:34:50.399732+00:00",
+  "previous_readme_sha256": "45002cb3c64e52876d98a39f7d98b91a67fb18fae5e1e25bcdd142ae41d453d2",
+  "current_readme_sha256": "923baf5979ebef270ee68aeb825ad3cf8d68b62fb255aa6bff71968195972765",
+  "previous_readme_archive": "dist/CIS5300-medquad-intent-code.zip",
+  "previous_readme_archive_member": "medquad_project/README.md",
+  "verified_experiment_artifacts_unchanged": 82,
+  "models_retrained": false,
+  "data_or_review_status_changed": false,
+  "test_evaluated": false,
+  "historical_preservation_inventory_note": "Earlier preservation inventories record the README at the time of their runs. This later authorized documentation edit does not replace those historical records; the earlier README remains in its original archive and Git history."
+}

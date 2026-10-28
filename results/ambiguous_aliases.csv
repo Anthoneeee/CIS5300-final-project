@@ -1,0 +1,491 @@
+alias,candidate_focuses,reason
+11 beta hydroxylase deficiency,"[""congenital adrenal hyperplasia"", ""congenital adrenal hyperplasia due to 11 beta hydroxylase deficiency""]",ambiguous_or_short_alias
+17 alpha hydroxylase deficiency,"[""17 alpha hydroxylase 17 20 lyase deficiency"", ""congenital adrenal hyperplasia""]",ambiguous_or_short_alias
+1q21 1 microdeletion,1q21 1 microdeletion syndrome,disjoint_annotated_cuis
+2 hydroxyglutaric aciduria,"[""d 2 alpha hydroxyglutaric aciduria"", ""l 2 hydroxyglutaric aciduria""]",ambiguous_or_short_alias
+21 hydroxylase deficiency,"[""congenital adrenal hyperplasia"", ""non classic congenital adrenal hyperplasia due to 21 hydroxylase deficiency""]",ambiguous_or_short_alias
+22q11 2 duplication,22q11 2 duplication syndrome,disjoint_annotated_cuis
+3 beta hydroxysteroid dehydrogenase deficiency,congenital adrenal hyperplasia,disjoint_annotated_cuis
+3 methylglutaconic aciduria type v,"[""dcma syndrome"", ""dilated cardiomyopathy with ataxia syndrome""]",ambiguous_or_short_alias
+3mc syndrome,carnevale syndrome,disjoint_annotated_cuis
+5q syndrome,"[""5q minus syndrome"", ""chromosome 5q deletion""]",ambiguous_or_short_alias
+5q14 3 microdeletion syndrome,chromosome 5q deletion,disjoint_annotated_cuis
+aase syndrome,diamond blackfan anemia,disjoint_annotated_cuis
+abdominal adhesions,adhesions,disjoint_annotated_cuis
+achondrogenesis,"[""achondrogenesis type 1a"", ""achondrogenesis type 2""]",ambiguous_or_short_alias
+achondrogenesis type 1a,achondrogenesis,disjoint_annotated_cuis
+achondrogenesis type 2,achondrogenesis,disjoint_annotated_cuis
+achromatopsia 3,cone dystrophy,disjoint_annotated_cuis
+acrokeratoelastoidosis of costa,palmoplantar keratoderma,disjoint_annotated_cuis
+acromesomelic dysplasia,"[""acromesomelic dysplasia hunter thompson type"", ""acromesomelic dysplasia maroteaux type"", ""chondrodysplasia acromesomelic with genital anomalies"", ""chondrodysplasia grebe type""]",ambiguous_or_short_alias
+acroosteolysis dominant type,hajdu cheney syndrome,disjoint_annotated_cuis
+acth independent macronodular adrenal hyperplasia,primary macronodular adrenal hyperplasia,disjoint_annotated_cuis
+acute cholecystitis,gallstones discharge,disjoint_annotated_cuis
+acute disseminated encephalomyelitis,leukodystrophy,disjoint_annotated_cuis
+acute intermittent porphyria,porphyria,disjoint_annotated_cuis
+adult neuronal ceroid lipofuscinosis,"[""kufs disease"", ""neuronal ceroid lipofuscinosis""]",ambiguous_or_short_alias
+afibrinogenemia,congenital afibrinogenemia,disjoint_annotated_cuis
+aicardi goutieres syndrome,"[""aicardi goutieres syndrome type 1"", ""aicardi goutieres syndrome type 2"", ""aicardi goutieres syndrome type 3"", ""aicardi goutieres syndrome type 4"", ""aicardi goutieres syndrome type 5"", ""leukodystrophy""]",ambiguous_or_short_alias
+alexander disease,leukodystrophy,disjoint_annotated_cuis
+alopecia areata,alopecia universalis,disjoint_annotated_cuis
+alopecia totalis,alopecia areata,disjoint_annotated_cuis
+alopecia universalis,alopecia areata,disjoint_annotated_cuis
+alpha thalassemia,thalassemia,disjoint_annotated_cuis
+alveolar capillary dysplasia,alveolar capillary dysplasia with misalignment of pulmonary veins,disjoint_annotated_cuis
+alveolar capillary dysplasia with misalignment of pulmonary veins,alveolar capillary dysplasia,disjoint_annotated_cuis
+alzheimer disease,"[""early onset autosomal dominant alzheimer disease"", ""late onset familial alzheimer disease""]",ambiguous_or_short_alias
+amniotic band syndrome,amniotic constriction bands,disjoint_annotated_cuis
+amyotrophic lateral sclerosis,"[""amyotrophic lateral sclerosis type 6"", ""progressive bulbar palsy""]",ambiguous_or_short_alias
+angioedema,hives,disjoint_annotated_cuis
+anorexia nervosa,eating disorders,disjoint_annotated_cuis
+antisynthetase syndrome,idiopathic inflammatory myopathy,disjoint_annotated_cuis
+antley bixler syndrome,cytochrome p450 oxidoreductase deficiency,disjoint_annotated_cuis
+anxiety,stress and your health,disjoint_annotated_cuis
+aphasia,speech impairment adult,disjoint_annotated_cuis
+arginase deficiency,urea cycle disorders,disjoint_annotated_cuis
+argininosuccinic aciduria,urea cycle disorders,disjoint_annotated_cuis
+aromatase excess syndrome,precocious puberty,disjoint_annotated_cuis
+arrhythmia,heart block,disjoint_annotated_cuis
+arthrogryposis like disorder,kuskokwim disease,disjoint_annotated_cuis
+asperger syndrome,autism spectrum disorder,disjoint_annotated_cuis
+atherosclerosis,hardening of the arteries,disjoint_annotated_cuis
+autism,autism spectrum disorder,disjoint_annotated_cuis
+autosomal dominant caf au lait spots,neurofibromatosis,disjoint_annotated_cuis
+axenfeld rieger syndrome,"[""axenfeld rieger syndrome type 1"", ""axenfeld rieger syndrome type 2""]",ambiguous_or_short_alias
+bangstad syndrome,dwarfism,disjoint_annotated_cuis
+baraitser brett piesowicz syndrome,congenital intrauterine infection like syndrome,disjoint_annotated_cuis
+bardet biedl syndrome,"[""bardet biedl syndrome 10"", ""bardet biedl syndrome 11"", ""bardet biedl syndrome 12"", ""bardet biedl syndrome 2"", ""bardet biedl syndrome 5"", ""bardet biedl syndrome 6"", ""bardet biedl syndrome 7"", ""bardet biedl syndrome 8"", ""bardet biedl syndrome 9""]",ambiguous_or_short_alias
+barotrauma,ear barotrauma,disjoint_annotated_cuis
+batten disease,"[""neuronal ceroid lipofuscinoses ncls"", ""neuronal ceroid lipofuscinosis""]",ambiguous_or_short_alias
+behcet s syndrome,"[""behcet s disease"", ""behet disease""]",ambiguous_or_short_alias
+benign familial neonatal seizures,convulsions benign familial neonatal dominant form,disjoint_annotated_cuis
+benign positional vertigo aftercare,dizziness and vertigo aftercare,disjoint_annotated_cuis
+beta mannosidosis,mannosidosis beta a lysosomal,disjoint_annotated_cuis
+beta thalassemia,thalassemia,disjoint_annotated_cuis
+bethlem myopathy,congenital muscular dystrophy,disjoint_annotated_cuis
+bile duct cancer,cholangiocarcinoma,disjoint_annotated_cuis
+bjornstad syndrome,bjrnstad syndrome,disjoint_annotated_cuis
+bladder cancer,small cell carcinoma of the bladder,disjoint_annotated_cuis
+blue cone monochromatism,cone dystrophy,disjoint_annotated_cuis
+bone cancer,bone tumor,disjoint_annotated_cuis
+brachyolmia,"[""brachyolmia type 3"", ""spondyloepiphyseal dysplasia maroteaux type""]",ambiguous_or_short_alias
+brachyolmia type 3,brachyolmia,disjoint_annotated_cuis
+branchiootorenal syndrome,branchiootorenal branchiootic syndrome,disjoint_annotated_cuis
+brittle cornea syndrome,ehlers danlos syndrome,disjoint_annotated_cuis
+brooke spiegler syndrome,multiple familial trichoepithelioma,disjoint_annotated_cuis
+bulimia,eating disorders,disjoint_annotated_cuis
+cadasil,"[""cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy"", ""leukodystrophy""]",ambiguous_or_short_alias
+cap myopathy,myopathy congenital,disjoint_annotated_cuis
+carbamoyl phosphate synthetase 1 deficiency,urea cycle disorders,disjoint_annotated_cuis
+cardiomyopathy dilated with woolly hair and keratoderma,palmoplantar keratoderma,disjoint_annotated_cuis
+carnevale syndrome,3mc syndrome,disjoint_annotated_cuis
+castleman disease,multicentric castleman disease,disjoint_annotated_cuis
+cat scratch disease,parinaud oculoglandular syndrome,disjoint_annotated_cuis
+catecholaminergic polymorphic ventricular tachycardia,familial ventricular tachycardia,disjoint_annotated_cuis
+centronuclear myopathy,myopathy congenital,disjoint_annotated_cuis
+cephalic disorders,brain malformations,disjoint_annotated_cuis
+cerebral amyloid angiopathy,hereditary cerebral hemorrhage with amyloidosis,disjoint_annotated_cuis
+cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,cadasil,disjoint_annotated_cuis
+charcot marie tooth disease,"[""autosomal dominant intermediate charcot marie tooth disease type a"", ""autosomal dominant intermediate charcot marie tooth disease type b"", ""autosomal dominant intermediate charcot marie tooth disease type c"", ""autosomal dominant intermediate charcot marie tooth disease type d"", ""autosomal dominant intermediate charcot marie tooth disease type e"", ""autosomal dominant intermediate charcot marie tooth disease type f"", ""autosomal recessive axonal neuropathy with neuromyotonia"", ""charcot marie tooth disease type 1a"", ""charcot marie tooth disease type 1b"", ""charcot marie tooth disease type 1c"", ""charcot marie tooth disease type 1d"", ""charcot marie tooth disease type 1e"", ""charcot marie tooth disease type 1f"", ""charcot marie tooth disease type 2b"", ""charcot marie tooth disease type 2b1"", ""charcot marie tooth disease type 2b2"", ""charcot marie tooth disease type 2d"", ""charcot marie tooth disease type 2f"", ""charcot marie tooth disease type 2g"", ""charcot marie tooth disease type 2h"", ""charcot marie tooth disease type 2j"", ""charcot marie tooth disease type 2k"", ""charcot marie tooth disease type 2l"", ""charcot marie tooth disease type 2n"", ""charcot marie tooth disease type 2o"", ""charcot marie tooth disease type 4"", ""charcot marie tooth disease type 4b2"", ""charcot marie tooth disease with ptosis and parkinsonism"", ""charcot marie tooth type 1 aplasia cutis congenita"", ""hypertrophic neuropathy of dejerine sottas"", ""x linked charcot marie tooth disease type 1"", ""x linked charcot marie tooth disease type 2"", ""x linked charcot marie tooth disease type 3"", ""x linked charcot marie tooth disease type 4"", ""x linked charcot marie tooth disease type 5""]",ambiguous_or_short_alias
+charley horse,muscle cramps,disjoint_annotated_cuis
+chikungunya,chikungunya virus,disjoint_annotated_cuis
+child abuse,domestic violence,disjoint_annotated_cuis
+childhood disintegrative disorder,autism spectrum disorder,disjoint_annotated_cuis
+cholangiocarcinoma,bile duct cancer,disjoint_annotated_cuis
+cholestasis,jaundice causes,disjoint_annotated_cuis
+chondrodysplasia acromesomelic with genital anomalies,acromesomelic dysplasia,disjoint_annotated_cuis
+chondrodysplasia grebe type,acromesomelic dysplasia,disjoint_annotated_cuis
+choroideremia,choroidal dystrophies,disjoint_annotated_cuis
+chromosome 17q11 2 deletion syndrome,"[""neurofibromatosis"", ""neurofibromatosis type 1""]",ambiguous_or_short_alias
+chromosome 5q deletion,"[""5q syndrome"", ""5q14 3 microdeletion syndrome""]",ambiguous_or_short_alias
+chronic bronchitis,chronic obstructive pulmonary disease,disjoint_annotated_cuis
+chronic inflammatory demyelinating polyneuropathy,chronic inflammatory polyneuropathy,disjoint_annotated_cuis
+chronic myelomonocytic leukemia,"[""myelodysplastic myeloproliferative disease"", ""pdgfrb associated chronic eosinophilic leukemia""]",ambiguous_or_short_alias
+chudley rozdilsky syndrome,myopathy congenital,disjoint_annotated_cuis
+citrullinemia type i,urea cycle disorders,disjoint_annotated_cuis
+clouston syndrome,palmoplantar keratoderma,disjoint_annotated_cuis
+cockayne syndrome,"[""cockayne syndrome type ii"", ""cockayne syndrome type iii""]",ambiguous_or_short_alias
+cockayne syndrome type iii,cockayne syndrome,disjoint_annotated_cuis
+cold sores,mouth sores,disjoint_annotated_cuis
+colitis,ulcerative colitis,disjoint_annotated_cuis
+colon cancer,colorectal cancer,disjoint_annotated_cuis
+colorectal cancer,colon cancer,disjoint_annotated_cuis
+cone dystrophy,"[""achromatopsia 3"", ""blue cone monochromatism"", ""cone dystrophy x linked with tapetal like sheen"", ""retinal cone dystrophy 1"", ""retinal cone dystrophy 3a"", ""retinal cone dystrophy 4""]",ambiguous_or_short_alias
+cone rod dystrophy,"[""cone rod dystrophy 2"", ""cone rod dystrophy 6"", ""cone rod dystrophy x linked 2""]",ambiguous_or_short_alias
+cone rod dystrophy 6,cone rod dystrophy,disjoint_annotated_cuis
+congenital adrenal hyperplasia,"[""11 beta hydroxylase deficiency"", ""17 alpha hydroxylase deficiency"", ""21 hydroxylase deficiency"", ""congenital adrenal hyperplasia due to cytochrome p450 oxidoreductase deficiency"", ""congenital lipoid adrenal hyperplasia""]",ambiguous_or_short_alias
+congenital afibrinogenemia,afibrinogenemia,disjoint_annotated_cuis
+congenital disorders of glycosylation,congenital disorder of glycosylation type i iix,disjoint_annotated_cuis
+congenital fiber type disproportion,"[""cap myopathy"", ""myopathy congenital""]",ambiguous_or_short_alias
+congenital hypothyroidism,neonatal hypothyroidism,disjoint_annotated_cuis
+congenital insensitivity to pain,hereditary sensory and autonomic neuropathy type v,disjoint_annotated_cuis
+congenital insensitivity to pain with anhidrosis,hereditary sensory and autonomic neuropathy,disjoint_annotated_cuis
+congenital muscular dystrophy,"[""bethlem myopathy"", ""fukuyama type muscular dystrophy"", ""muscular dystrophy"", ""muscular dystrophy congenital infantile with cataract and hypogonadism"", ""muscular dystrophy congenital megaconial type"", ""muscular dystrophy congenital merosin positive"", ""ullrich congenital muscular dystrophy""]",ambiguous_or_short_alias
+congenital myasthenic syndrome,"[""congenital myasthenic syndrome associated with acetylcholine receptor deficiency"", ""congenital myasthenic syndrome with episodic apnea"", ""lambert eaton myasthenic syndrome""]",ambiguous_or_short_alias
+congenital myasthenic syndrome with episodic apnea,congenital myasthenic syndrome,disjoint_annotated_cuis
+congenital myopathy,myopathy congenital,disjoint_annotated_cuis
+congenital radio ulnar synostosis,"[""radio ulnar synostosis type 1"", ""radio ulnar synostosis type 2""]",ambiguous_or_short_alias
+conjunctivitis,pinkeye,disjoint_annotated_cuis
+copd,chronic obstructive pulmonary disease,disjoint_annotated_cuis
+crest syndrome,"[""limited cutaneous systemic sclerosis"", ""scleroderma""]",ambiguous_or_short_alias
+cryptosporidiosis,cryptosporidium enteritis,disjoint_annotated_cuis
+cushing disease,cushing s syndrome,disjoint_annotated_cuis
+cushing s syndrome,cushing disease,disjoint_annotated_cuis
+cutaneous mastocytoma,cutaneous mastocytosis,disjoint_annotated_cuis
+cutaneous mastocytosis,"[""cutaneous mastocytoma"", ""diffuse cutaneous mastocytosis""]",ambiguous_or_short_alias
+cystic hygroma,fetal cystic hygroma,disjoint_annotated_cuis
+cystocele,pelvic support problems,disjoint_annotated_cuis
+deafness infertility syndrome,sensorineural deafness and male infertility,disjoint_annotated_cuis
+dengue hemorrhagic fever,dengue fever,disjoint_annotated_cuis
+dermatomyositis,"[""idiopathic inflammatory myopathy"", ""juvenile dermatomyositis""]",ambiguous_or_short_alias
+diabetes insipidus nephrogenic,nephrogenic diabetes insipidus,disjoint_annotated_cuis
+diabetes type 1,"[""diabetes"", ""type 1 diabetes""]",ambiguous_or_short_alias
+diabetes type 2,"[""diabetes"", ""type 2 diabetes""]",ambiguous_or_short_alias
+diabetic neuropathy,"[""diabetes and nerve damage"", ""diabetic nerve problems""]",ambiguous_or_short_alias
+diabetic retinopathy,"[""diabetes and eye disease"", ""diabetic eye problems""]",ambiguous_or_short_alias
+dicer1 related pleuropulmonary blastoma cancer predisposition syndrome,dicer1 syndrome,disjoint_annotated_cuis
+dicer1 syndrome,dicer1 related pleuropulmonary blastoma cancer predisposition syndrome,disjoint_annotated_cuis
+diffuse cutaneous mastocytosis,cutaneous mastocytosis,disjoint_annotated_cuis
+diffuse cutaneous systemic sclerosis,systemic scleroderma,disjoint_annotated_cuis
+dihydrolipoamide dehydrogenase deficiency,pyruvate dehydrogenase deficiency,disjoint_annotated_cuis
+dilated cardiomyopathy,"[""cardiomyopathy"", ""familial dilated cardiomyopathy""]",ambiguous_or_short_alias
+diverticular disease,diverticulosis and diverticulitis,disjoint_annotated_cuis
+dizziness,vertigo associated disorders,disjoint_annotated_cuis
+dominant dystrophic epidermolysis bullosa,"[""dystrophic epidermolysis bullosa"", ""epidermolysis bullosa""]",ambiguous_or_short_alias
+dominant optic atrophy,"[""autosomal dominant optic atrophy and cataract"", ""optic atrophy 1"", ""optic atrophy 5"", ""optic atrophy type 1""]",ambiguous_or_short_alias
+dopamine beta hydroxylase deficiency,primary orthostatic hypotension,disjoint_annotated_cuis
+dopamine transporter deficiency syndrome,infantile parkinsonism dystonia,disjoint_annotated_cuis
+dwarfism,"[""alaninuria with microcephaly dwarfism enamel hypoplasia and diabetes mellitus"", ""amino aciduria with mental deficiency dwarfism muscular dystrophy osteoporosis and acidosis"", ""bangstad syndrome"", ""microcephalic primordial dwarfism montreal type""]",ambiguous_or_short_alias
+dysarthria,speech impairment adult,disjoint_annotated_cuis
+dysgraphia,disorder of written expression,disjoint_annotated_cuis
+dyskeratosis congenita,"[""dyskeratosis congenita autosomal dominant"", ""dyskeratosis congenita autosomal recessive""]",ambiguous_or_short_alias
+dyslexia,developmental reading disorder,disjoint_annotated_cuis
+dyssynergia cerebellaris myoclonica,gosr2 related progressive myoclonus ataxia,disjoint_annotated_cuis
+dystrophic epidermolysis bullosa,"[""dominant dystrophic epidermolysis bullosa"", ""epidermolysis bullosa"", ""pretibial epidermolysis bullosa""]",ambiguous_or_short_alias
+early infantile epileptic encephalopathy,"[""pcdh19 related female limited epilepsy"", ""x linked infantile spasm syndrome""]",ambiguous_or_short_alias
+early onset primary dystonia,dystonia 1,disjoint_annotated_cuis
+ehlers danlos syndrome,"[""brittle cornea syndrome"", ""ehlers danlos like syndrome due to tenascin x deficiency"", ""ehlers danlos syndrome dermatosparaxis type"", ""ehlers danlos syndrome kyphoscoliosis type"", ""ehlers danlos syndrome periodontitis type"", ""ehlers danlos syndrome progeroid type"", ""ehlers danlos syndrome spondylocheirodysplastic type"", ""ehlers danlos syndrome vascular type"", ""ehlers danlos syndrome with periventricular heterotopia"", ""familial joint instability syndrome""]",ambiguous_or_short_alias
+elder abuse,domestic violence,disjoint_annotated_cuis
+emphysema,chronic obstructive pulmonary disease,disjoint_annotated_cuis
+encopresis,bowel incontinence,disjoint_annotated_cuis
+endometrial cancer,uterine cancer,disjoint_annotated_cuis
+endometrial stromal sarcoma,uterine sarcoma,disjoint_annotated_cuis
+enthesitis related juvenile idiopathic arthritis,"[""juvenile idiopathic arthritis"", ""juvenile spondyloarthropathy""]",ambiguous_or_short_alias
+eosinophilic fasciitis,idiopathic inflammatory myopathy,disjoint_annotated_cuis
+epidermolysis bullosa,"[""dominant dystrophic epidermolysis bullosa"", ""dystrophic epidermolysis bullosa"", ""epidermolysis bullosa acquisita"", ""epidermolysis bullosa late onset localized junctional with mental retardation"", ""epidermolysis bullosa lethal acantholytic"", ""epidermolysis bullosa simplex dowling meara type"", ""epidermolysis bullosa simplex generalized"", ""epidermolysis bullosa simplex localized"", ""epidermolysis bullosa simplex ogna type"", ""junctional epidermolysis bullosa"", ""pretibial epidermolysis bullosa""]",ambiguous_or_short_alias
+epidermolysis bullosa acquisita,epidermolysis bullosa,disjoint_annotated_cuis
+epidermolysis bullosa simplex,"[""epidermolysa bullosa simplex with muscular dystrophy"", ""epidermolysis bullosa"", ""epidermolysis bullosa lethal acantholytic"", ""epidermolysis bullosa simplex dowling meara type"", ""epidermolysis bullosa simplex generalized"", ""epidermolysis bullosa simplex localized"", ""epidermolysis bullosa simplex ogna type""]",ambiguous_or_short_alias
+epididymitis,testicle pain,disjoint_annotated_cuis
+episodic ataxia,episodic ataxia with nystagmus,disjoint_annotated_cuis
+episodic ataxia with nystagmus,episodic ataxia,disjoint_annotated_cuis
+erythropoietic protoporphyria,porphyria,disjoint_annotated_cuis
+exstrophy epispadias complex,exstrophy of the bladder,disjoint_annotated_cuis
+exstrophy of the bladder,exstrophy epispadias complex,disjoint_annotated_cuis
+familial amyloidosis finnish type,lattice corneal dystrophy type ii,disjoint_annotated_cuis
+familial cylindromatosis,brooke spiegler syndrome,disjoint_annotated_cuis
+familial dysautonomia,"[""hereditary sensory and autonomic neuropathy"", ""primary orthostatic hypotension"", ""riley day syndrome""]",ambiguous_or_short_alias
+familial dysbetalipoproteinemia,hyperlipidemia type 3,disjoint_annotated_cuis
+familial encephalopathy with neuroserpin inclusion bodies,progressive myoclonic epilepsy,disjoint_annotated_cuis
+familial hemiplegic migraine,"[""familial hemiplegic migraine type 1"", ""familial hemiplegic migraine type 2"", ""familial hemiplegic migraine type 3""]",ambiguous_or_short_alias
+familial hemophagocytic lymphohistiocytosis,hemophagocytic lymphohistiocytosis,disjoint_annotated_cuis
+familial hypobetalipoproteinemia,abetalipoproteinemia,disjoint_annotated_cuis
+familial lipoprotein lipase deficiency,chylomicronemia syndrome,disjoint_annotated_cuis
+familial pityriasis rubra pilaris,pityriasis rubra pilaris,disjoint_annotated_cuis
+familial ventricular tachycardia,catecholaminergic polymorphic ventricular tachycardia,disjoint_annotated_cuis
+farsightedness,refractive errors,disjoint_annotated_cuis
+fibronectin glomerulopathy,glomerulopathy with fibronectin deposits 2,disjoint_annotated_cuis
+food poisoning,foodborne illness,disjoint_annotated_cuis
+frontofacionasal dysplasia,frontonasal dysplasia,disjoint_annotated_cuis
+frontonasal dysplasia,frontofacionasal dysplasia,disjoint_annotated_cuis
+galactose epimerase deficiency,galactosemia,disjoint_annotated_cuis
+generalized pustular psoriasis,pustular psoriasis,disjoint_annotated_cuis
+gestational diabetes,"[""diabetes"", ""diabetes and pregnancy""]",ambiguous_or_short_alias
+gestational trophoblastic tumor,"[""hydatidiform mole"", ""recurrent hydatidiform mole""]",ambiguous_or_short_alias
+giant cell arteritis,temporal arteritis,disjoint_annotated_cuis
+gm1 gangliosidosis,"[""gm1 gangliosidosis type 1"", ""gm1 gangliosidosis type 2"", ""gm1 gangliosidosis type 3""]",ambiguous_or_short_alias
+gnathodiaphyseal dysplasia,osteogenesis imperfecta levin type,disjoint_annotated_cuis
+gosr2 related progressive myoclonus ataxia,dyssynergia cerebellaris myoclonica,disjoint_annotated_cuis
+guillain barre syndrome,guillain barr syndrome,disjoint_annotated_cuis
+gum disease,gingivitis,disjoint_annotated_cuis
+guttate psoriasis,psoriasis,disjoint_annotated_cuis
+hajdu cheney syndrome,acroosteolysis dominant type,disjoint_annotated_cuis
+hantavirus,hantavirus pulmonary syndrome,disjoint_annotated_cuis
+hantavirus pulmonary syndrome,hantavirus,disjoint_annotated_cuis
+hashimoto s disease,"[""hashimoto s syndrome"", ""hashimoto thyroiditis""]",ambiguous_or_short_alias
+hay fever,allergic rhinitis,disjoint_annotated_cuis
+head and neck cancer,oral cancer,disjoint_annotated_cuis
+head and neck squamous cell carcinoma,squamous cell carcinoma of the head and neck,disjoint_annotated_cuis
+hearing loss,"[""hearing disorders and deafness"", ""mnire disease""]",ambiguous_or_short_alias
+heat illness,heat emergencies,disjoint_annotated_cuis
+hemangioma,birthmarks,disjoint_annotated_cuis
+hemochromatosis,"[""hemochromatosis type 1"", ""hemochromatosis type 4"", ""hereditary hemochromatosis""]",ambiguous_or_short_alias
+hemoglobinopathy,"[""alpha thalassemia"", ""beta thalassemia"", ""hemoglobin e disease""]",ambiguous_or_short_alias
+hemophilia,"[""acquired hemophilia a"", ""hemophilia b""]",ambiguous_or_short_alias
+hemophilia b,hemophilia,disjoint_annotated_cuis
+hepatic encephalopathy,loss of brain function liver disease,disjoint_annotated_cuis
+hereditary amyloidosis,al amyloidosis,disjoint_annotated_cuis
+hereditary endotheliopathy retinopathy nephropathy and stroke,retinal vasculopathy with cerebral leukodystrophy,disjoint_annotated_cuis
+hereditary hemorrhagic telangiectasia,"[""hereditary hemorrhagic telangiectasia type 4"", ""osler weber rendu syndrome""]",ambiguous_or_short_alias
+hereditary paraganglioma pheochromocytoma,"[""paragangliomas 1"", ""paragangliomas 4""]",ambiguous_or_short_alias
+hereditary sensory and autonomic neuropathy,"[""hereditary sensory and autonomic neuropathy type v"", ""hereditary sensory neuropathy type 1""]",ambiguous_or_short_alias
+hereditary sensory and autonomic neuropathy type ie,hereditary sensory neuropathy type ie,disjoint_annotated_cuis
+hereditary sensory neuropathy type ie,"[""hereditary sensory and autonomic neuropathy type ie"", ""hereditary sensory neuropathy type 1""]",ambiguous_or_short_alias
+hereditary spastic paraplegia,"[""spastic paraplegia type 7"", ""troyer syndrome""]",ambiguous_or_short_alias
+hereditary vascular retinopathy,retinal vasculopathy with cerebral leukodystrophy,disjoint_annotated_cuis
+herpes simplex,mouth sores,disjoint_annotated_cuis
+hoarseness,laryngitis,disjoint_annotated_cuis
+hurler syndrome,mucopolysaccharidosis type i,disjoint_annotated_cuis
+hurlerscheie syndrome,mucopolysaccharidosis type i,disjoint_annotated_cuis
+hydatidiform mole,"[""gestational trophoblastic tumor"", ""recurrent hydatidiform mole""]",ambiguous_or_short_alias
+hydrocephalus due to congenital stenosis of aqueduct of sylvius,l1 syndrome,disjoint_annotated_cuis
+hyper igd syndrome,mevalonate kinase deficiency,disjoint_annotated_cuis
+hypercalcemia,milk alkali syndrome,disjoint_annotated_cuis
+hypercholesterolemia,high blood cholesterol levels,disjoint_annotated_cuis
+hyperphosphatemic familial tumoral calcinosis,familial tumoral calcinosis,disjoint_annotated_cuis
+hypersomnia,drowsiness,disjoint_annotated_cuis
+hypertonia,spasticity,disjoint_annotated_cuis
+hypertrophic cardiomyopathy,cardiomyopathy,disjoint_annotated_cuis
+hypopharyngeal cancer,throat cancer,disjoint_annotated_cuis
+hypophosphatemia,hereditary hypophosphatemic rickets,disjoint_annotated_cuis
+hypophosphatemic rickets,x linked hypophosphatemia,disjoint_annotated_cuis
+ibids syndrome,"[""trichothiodystrophy nonphotosensitive"", ""trichothiodystrophy photosensitive""]",ambiguous_or_short_alias
+idiopathic inflammatory myopathy,"[""antisynthetase syndrome"", ""dermatomyositis"", ""eosinophilic fasciitis"", ""inclusion body myositis"", ""juvenile dermatomyositis"", ""polymyositis"", ""sarcoidosis""]",ambiguous_or_short_alias
+idiopathic pulmonary fibrosis,pulmonary fibrosis,disjoint_annotated_cuis
+illness anxiety disorder,somatic symptom disorder,disjoint_annotated_cuis
+image syndrome,intrauterine growth restriction metaphyseal dysplasia adrenal hypoplasia congenita and genital anomalies,disjoint_annotated_cuis
+imerslund grasbeck syndrome,imerslund grsbeck syndrome,disjoint_annotated_cuis
+immunodeficiency with hyper igm type 1,x linked hyper igm syndrome,disjoint_annotated_cuis
+immunotactoid glomerulopathy,immunotactoid or fibrillary glomerulopathy,disjoint_annotated_cuis
+immunotactoid or fibrillary glomerulopathy,immunotactoid glomerulopathy,disjoint_annotated_cuis
+inclusion body myositis,idiopathic inflammatory myopathy,disjoint_annotated_cuis
+infantile parkinsonism dystonia,dopamine transporter deficiency syndrome,disjoint_annotated_cuis
+inguinal hernia,hernia,disjoint_annotated_cuis
+interstitial cystitis,cystitis noninfectious,disjoint_annotated_cuis
+ischemic stroke,stroke,disjoint_annotated_cuis
+junctional epidermolysis bullosa,epidermolysis bullosa,disjoint_annotated_cuis
+juvenile dermatomyositis,"[""dermatomyositis"", ""idiopathic inflammatory myopathy""]",ambiguous_or_short_alias
+juvenile idiopathic arthritis,"[""enthesitis related juvenile idiopathic arthritis"", ""juvenile arthritis""]",ambiguous_or_short_alias
+juvenile myelomonocytic leukemia,myelodysplastic myeloproliferative disease,disjoint_annotated_cuis
+juvenile paget disease,paget disease of bone,disjoint_annotated_cuis
+juvenile spondyloarthropathy,"[""enthesitis related juvenile idiopathic arthritis"", ""psoriatic juvenile idiopathic arthritis""]",ambiguous_or_short_alias
+kallmann syndrome,"[""kallmann syndrome 3"", ""kallmann syndrome 5"", ""kallmann syndrome 6""]",ambiguous_or_short_alias
+kallmann syndrome 5,kallmann syndrome,disjoint_annotated_cuis
+kaposi s sarcoma,"[""adult soft tissue sarcoma"", ""kaposi sarcoma""]",ambiguous_or_short_alias
+kennedy s disease,spinal and bulbar muscular atrophy,disjoint_annotated_cuis
+kidney cancer,renal cell carcinoma,disjoint_annotated_cuis
+kidney failure,acute kidney failure,disjoint_annotated_cuis
+klumpke paralysis,brachial plexus injury in newborns,disjoint_annotated_cuis
+kufs disease,neuronal ceroid lipofuscinoses ncls,disjoint_annotated_cuis
+kuskokwim disease,kuskokwim syndrome,disjoint_annotated_cuis
+kuskokwim syndrome,kuskokwim disease,disjoint_annotated_cuis
+l1 syndrome,hydrocephalus due to congenital stenosis of aqueduct of sylvius,disjoint_annotated_cuis
+lafora disease,"[""lafora progressive myoclonus epilepsy"", ""progressive myoclonic epilepsy""]",ambiguous_or_short_alias
+lambert eaton myasthenic syndrome,"[""congenital myasthenic syndrome"", ""lambert eaton syndrome""]",ambiguous_or_short_alias
+langerhans cell histiocytosis,histiocytosis,disjoint_annotated_cuis
+laryngeal cancer,"[""throat cancer"", ""throat or larynx cancer""]",ambiguous_or_short_alias
+late onset familial alzheimer disease,alzheimer disease,disjoint_annotated_cuis
+learning disabilities,learning disorders,disjoint_annotated_cuis
+leigh syndrome,"[""leigh syndrome french canadian type"", ""mitochondrial dna associated leigh syndrome"", ""nuclear gene encoded leigh syndrome""]",ambiguous_or_short_alias
+leiomyosarcoma,"[""adult soft tissue sarcoma"", ""uterine sarcoma""]",ambiguous_or_short_alias
+leukodystrophy,"[""cadasil"", ""cerebrotendinous xanthomatosis"", ""childhood onset cerebral x linked adrenoleukodystrophy"", ""hypomyelination with atrophy of basal ganglia and cerebellum"", ""leukoencephalopathy with brain stem and spinal cord involvement and lactate elevation"", ""leukoencephalopathy with vanishing white matter"", ""metachromatic leukodystrophy"", ""metachromatic leukodystrophy due to saposin b deficiency"", ""neonatal adrenoleukodystrophy"", ""pelizaeus merzbacher disease"", ""refsum disease infantile form"", ""zellweger spectrum""]",ambiguous_or_short_alias
+limb girdle muscular dystrophy,"[""epidermolysa bullosa simplex with muscular dystrophy"", ""limb girdle muscular dystrophy type 1a"", ""limb girdle muscular dystrophy type 2a"", ""limb girdle muscular dystrophy type 2c"", ""limb girdle muscular dystrophy type 2e"", ""limb girdle muscular dystrophy type 2g"", ""limb girdle muscular dystrophy type 2h"", ""limb girdle muscular dystrophy type 2i"", ""muscular dystrophy""]",ambiguous_or_short_alias
+limited cutaneous systemic sclerosis,"[""crest syndrome"", ""systemic scleroderma""]",ambiguous_or_short_alias
+linear scleroderma,localized scleroderma,disjoint_annotated_cuis
+liposarcoma,adult soft tissue sarcoma,disjoint_annotated_cuis
+localized scleroderma,"[""linear scleroderma"", ""scleroderma""]",ambiguous_or_short_alias
+loeys dietz syndrome,"[""loeys dietz syndrome type 2"", ""loeys dietz syndrome type 4""]",ambiguous_or_short_alias
+loeys dietz syndrome type 4,loeys dietz syndrome,disjoint_annotated_cuis
+low vision,"[""blindness and vision loss"", ""vision impairment and blindness""]",ambiguous_or_short_alias
+lucey driscoll syndrome,transient familial hyperbilirubinemia,disjoint_annotated_cuis
+lupus,systemic lupus erythematosus,disjoint_annotated_cuis
+lymphatic obstruction,lymphedema,disjoint_annotated_cuis
+lymphedema,lymphatic obstruction,disjoint_annotated_cuis
+machado joseph disease,"[""spinocerebellar ataxia 3"", ""spinocerebellar ataxia type 3""]",ambiguous_or_short_alias
+malignant hyperthermia,malignant hyperthermia susceptibility type 3,disjoint_annotated_cuis
+marshall syndrome,periodic fever aphthous stomatitis pharyngitis and adenitis,disjoint_annotated_cuis
+medullary cystic kidney disease,medullary cystic kidney disease 1,disjoint_annotated_cuis
+medullary cystic kidney disease 1,medullary cystic kidney disease,disjoint_annotated_cuis
+meige disease,hereditary lymphedema type ii,disjoint_annotated_cuis
+methylmalonic acidemia with homocystinuria,"[""methylmalonic acidemia with homocystinuria type cblc"", ""methylmalonic acidemia with homocystinuria type cblj""]",ambiguous_or_short_alias
+mevalonate kinase deficiency,mevalonic aciduria,disjoint_annotated_cuis
+mevalonic aciduria,mevalonate kinase deficiency,disjoint_annotated_cuis
+michels syndrome,3mc syndrome,disjoint_annotated_cuis
+microcephalic primordial dwarfism montreal type,dwarfism,disjoint_annotated_cuis
+microphthalmia,"[""anterior segment mesenchymal dysgenesis"", ""lenz microphthalmia syndrome"", ""microphthalmia associated with colobomatous cyst"", ""microphthalmia syndromic 5"", ""microphthalmia syndromic 6"", ""microphthalmia syndromic 7"", ""microphthalmia syndromic 9"", ""oculofaciocardiodental syndrome"", ""syndromic microphthalmia type 3""]",ambiguous_or_short_alias
+microphthalmia syndromic 7,microphthalmia with linear skin defects syndrome,disjoint_annotated_cuis
+mild cognitive impairment,dementia,disjoint_annotated_cuis
+minimal change disease,c1q nephropathy,disjoint_annotated_cuis
+morquio syndrome b,mucopolysaccharidosis type iv,disjoint_annotated_cuis
+mucopolysaccharidosis type i,"[""hurler syndrome"", ""hurlerscheie syndrome"", ""scheie syndrome""]",ambiguous_or_short_alias
+mucopolysaccharidosis type iii,"[""mucopolysaccharidosis type iiib"", ""mucopolysaccharidosis type iiid""]",ambiguous_or_short_alias
+mucopolysaccharidosis type iv,"[""morquio syndrome b"", ""mucopolysaccharidosis type iva""]",ambiguous_or_short_alias
+mucopolysaccharidosis type iva,"[""morquio syndrome"", ""mucopolysaccharidosis type iv""]",ambiguous_or_short_alias
+multi infarct dementia,"[""binswanger s disease"", ""vascular dementia""]",ambiguous_or_short_alias
+multicentric castleman disease,castleman disease,disjoint_annotated_cuis
+multicentric osteolysis nodulosis and arthropathy,torg winchester syndrome,disjoint_annotated_cuis
+multiple familial trichoepithelioma,brooke spiegler syndrome,disjoint_annotated_cuis
+multiple system atrophy,primary orthostatic hypotension,disjoint_annotated_cuis
+muscular dystrophy congenital merosin positive,ullrich congenital muscular dystrophy,disjoint_annotated_cuis
+mycetoma,pulmonary aspergilloma,disjoint_annotated_cuis
+myelodysplastic myeloproliferative disease,juvenile myelomonocytic leukemia,disjoint_annotated_cuis
+myopathy congenital,"[""cap myopathy"", ""centronuclear myopathy"", ""chudley rozdilsky syndrome"", ""fingerprint body myopathy"", ""nemaline myopathy"", ""reducing body myopathy"", ""tubular aggregate myopathy""]",ambiguous_or_short_alias
+myositis,idiopathic inflammatory myopathy,disjoint_annotated_cuis
+nadh cytochrome b5 reductase deficiency,autosomal recessive congenital methemoglobinemia,disjoint_annotated_cuis
+nasopharyngeal cancer,"[""nasopharyngeal carcinoma"", ""throat cancer""]",ambiguous_or_short_alias
+nearsightedness,refractive errors,disjoint_annotated_cuis
+necrotizing fasciitis,necrotizing soft tissue infection,disjoint_annotated_cuis
+necrotizing soft tissue infection,gas gangrene,disjoint_annotated_cuis
+neonatal adrenoleukodystrophy,zellweger spectrum,disjoint_annotated_cuis
+nephrogenic diabetes insipidus,diabetes insipidus nephrogenic,disjoint_annotated_cuis
+neural tube defects,"[""anencephaly"", ""encephalocele"", ""myelomeningocele""]",ambiguous_or_short_alias
+neuroacanthocytosis,"[""chorea acanthocytosis"", ""pantothenate kinase associated neurodegeneration""]",ambiguous_or_short_alias
+neurodegeneration with brain iron accumulation,"[""aceruloplasminemia"", ""coasy protein associated neurodegeneration"", ""mitochondrial membrane protein associated neurodegeneration"", ""neuroferritinopathy"", ""pantothenate kinase associated neurodegeneration"", ""parkinson disease type 9""]",ambiguous_or_short_alias
+neurofibromatosis,"[""autosomal dominant caf au lait spots"", ""chromosome 17q11 2 deletion syndrome"", ""neurofibromatosis noonan syndrome"", ""neurofibromatosis type 1"", ""schwannomatosis""]",ambiguous_or_short_alias
+neurofibromatosis 1,neurofibromatosis type 1,disjoint_annotated_cuis
+neurofibromatosis type 1,"[""chromosome 17q11 2 deletion syndrome"", ""neurofibromatosis""]",ambiguous_or_short_alias
+neurofibromatosis type 2,neurofibromatosis,disjoint_annotated_cuis
+neuronal ceroid lipofuscinosis,"[""adult neuronal ceroid lipofuscinosis"", ""autosomal dominant neuronal ceroid lipofuscinosis 4b"", ""ceroid lipofuscinosis neuronal 1"", ""neuronal ceroid lipofuscinosis 10"", ""neuronal ceroid lipofuscinosis 5"", ""neuronal ceroid lipofuscinosis 7"", ""neuronal ceroid lipofuscinosis 9"", ""northern epilepsy""]",ambiguous_or_short_alias
+neuronal ceroid lipofuscinosis 10,"[""congenital neuronal ceroid lipofuscinosis"", ""neuronal ceroid lipofuscinosis""]",ambiguous_or_short_alias
+non hodgkin lymphoma,lymphoma,disjoint_annotated_cuis
+non small cell lung cancer,lung cancer non small cell,disjoint_annotated_cuis
+nonalcoholic steatohepatitis,fatty liver nonalcoholic,disjoint_annotated_cuis
+noonan syndrome,"[""noonan syndrome 1"", ""noonan syndrome 2"", ""noonan syndrome 3"", ""noonan syndrome 4"", ""noonan syndrome 6""]",ambiguous_or_short_alias
+noonan syndrome 2,noonan syndrome,disjoint_annotated_cuis
+noonan syndrome 3,noonan syndrome,disjoint_annotated_cuis
+noonan syndrome 4,noonan syndrome,disjoint_annotated_cuis
+ocular albinism,albinism,disjoint_annotated_cuis
+oculocutaneous albinism,albinism,disjoint_annotated_cuis
+ohtahara syndrome,early infantile epileptic encephalopathy,disjoint_annotated_cuis
+optic atrophy 5,dominant optic atrophy,disjoint_annotated_cuis
+orchitis,testicle pain,disjoint_annotated_cuis
+oropharyngeal cancer,throat cancer,disjoint_annotated_cuis
+orthostatic hypotension,low blood pressure,disjoint_annotated_cuis
+osteogenesis imperfecta,"[""osteogenesis imperfecta levin type"", ""osteogenesis imperfecta type i"", ""osteogenesis imperfecta type ii"", ""osteogenesis imperfecta type iii"", ""osteogenesis imperfecta type v"", ""osteogenesis imperfecta type vi"", ""osteogenesis imperfecta type vii""]",ambiguous_or_short_alias
+osteogenesis imperfecta levin type,"[""gnathodiaphyseal dysplasia"", ""osteogenesis imperfecta""]",ambiguous_or_short_alias
+osteogenesis imperfecta type i,osteogenesis imperfecta,disjoint_annotated_cuis
+osteogenesis imperfecta type ii,osteogenesis imperfecta,disjoint_annotated_cuis
+osteogenesis imperfecta type iii,osteogenesis imperfecta,disjoint_annotated_cuis
+osteomyelitis,prosthetic joint infection,disjoint_annotated_cuis
+overactive bladder,urge incontinence,disjoint_annotated_cuis
+pachygyria,"[""pachygyria frontotemporal"", ""pachygyria with mental retardation and seizures""]",ambiguous_or_short_alias
+pachygyria frontotemporal,pachygyria,disjoint_annotated_cuis
+palmoplantar keratoderma,"[""acrokeratoelastoidosis of costa"", ""cardiomyopathy dilated with woolly hair and keratoderma"", ""focal palmoplantar and gingival keratoderma"", ""haim munk syndrome"", ""keratoderma palmoplantar deafness"", ""keratoderma palmoplantar spastic paralysis"", ""keratosis palmoplantaris striata 1"", ""meleda disease"", ""naegeli syndrome"", ""pachyonychia congenita"", ""papillon lefevre syndrome"", ""punctate palmoplantar keratoderma type 2"", ""punctate palmoplantar keratoderma type i"", ""skin fragility woolly hair palmoplantar keratoderma syndrome"", ""tylosis with esophageal cancer"", ""unna thost palmoplantar keratoderma""]",ambiguous_or_short_alias
+pantothenate kinase associated neurodegeneration,"[""mitochondrial membrane protein associated neurodegeneration"", ""neuroacanthocytosis"", ""neurodegeneration with brain iron accumulation nbia""]",ambiguous_or_short_alias
+paragangliomas 4,hereditary paraganglioma pheochromocytoma,disjoint_annotated_cuis
+paralysis,muscle function loss,disjoint_annotated_cuis
+pars planitis,uveitis,disjoint_annotated_cuis
+parsonage turner syndrome,brachial plexopathy,disjoint_annotated_cuis
+pcdh19 related female limited epilepsy,early infantile epileptic encephalopathy,disjoint_annotated_cuis
+penile cancer,cancer penis,disjoint_annotated_cuis
+perrault syndrome,gonadal dysgenesis xx type,disjoint_annotated_cuis
+pityriasis lichenoides,"[""pityriasis lichenoides chronica"", ""pityriasis lichenoides et varioliformis acuta""]",ambiguous_or_short_alias
+pityriasis lichenoides chronica,pityriasis lichenoides,disjoint_annotated_cuis
+pityriasis lichenoides et varioliformis acuta,pityriasis lichenoides,disjoint_annotated_cuis
+polymicrogyria,"[""bilateral frontal polymicrogyria"", ""bilateral frontoparietal polymicrogyria"", ""bilateral generalized polymicrogyria"", ""bilateral perisylvian polymicrogyria""]",ambiguous_or_short_alias
+porphyria,"[""acute intermittent porphyria"", ""erythropoietic protoporphyria"", ""porphyria cutanea tarda""]",ambiguous_or_short_alias
+post polio syndrome,polio,disjoint_annotated_cuis
+precocious puberty,aromatase excess syndrome,disjoint_annotated_cuis
+premature ovarian failure,ovarian hypofunction,disjoint_annotated_cuis
+premenstrual dysphoric disorder,premenstrual syndrome,disjoint_annotated_cuis
+pretibial epidermolysis bullosa,dystrophic epidermolysis bullosa,disjoint_annotated_cuis
+primary orthostatic hypotension,"[""dopamine beta hydroxylase deficiency"", ""multiple system atrophy"", ""pure autonomic failure""]",ambiguous_or_short_alias
+progressive myoclonic epilepsy,"[""familial encephalopathy with neuroserpin inclusion bodies"", ""lafora disease"", ""unverricht lundborg disease""]",ambiguous_or_short_alias
+pseudohypoparathyroidism,"[""pseudohypoparathyroidism type 1a"", ""pseudohypoparathyroidism type 1c"", ""pseudohypoparathyroidism type 2""]",ambiguous_or_short_alias
+pseudohypoparathyroidism type 1c,pseudohypoparathyroidism,disjoint_annotated_cuis
+pseudohypoparathyroidism type 2,pseudohypoparathyroidism,disjoint_annotated_cuis
+pseudomembranous colitis,clostridium difficile infections,disjoint_annotated_cuis
+psoriasis guttate,guttate psoriasis,disjoint_annotated_cuis
+psoriatic juvenile idiopathic arthritis,juvenile spondyloarthropathy,disjoint_annotated_cuis
+pulmonary arterial hypertension,pulmonary hypertension,disjoint_annotated_cuis
+pulmonary fibrosis,idiopathic pulmonary fibrosis,disjoint_annotated_cuis
+pure autonomic failure,primary orthostatic hypotension,disjoint_annotated_cuis
+pustular psoriasis,"[""generalized pustular psoriasis"", ""psoriasis""]",ambiguous_or_short_alias
+pyruvate dehydrogenase deficiency,dihydrolipoamide dehydrogenase deficiency,disjoint_annotated_cuis
+radio ulnar synostosis type 2,congenital radio ulnar synostosis,disjoint_annotated_cuis
+rectal cancer,"[""colon cancer"", ""colorectal cancer""]",ambiguous_or_short_alias
+recurrent hydatidiform mole,"[""gestational trophoblastic tumor"", ""hydatidiform mole""]",ambiguous_or_short_alias
+refsum disease infantile form,zellweger spectrum,disjoint_annotated_cuis
+renal artery stenosis,renovascular hypertension,disjoint_annotated_cuis
+renal tubular acidosis,"[""renal tubular acidosis distal autosomal dominant"", ""slc4a1 associated distal renal tubular acidosis""]",ambiguous_or_short_alias
+renal tubular acidosis distal autosomal dominant,slc4a1 associated distal renal tubular acidosis,disjoint_annotated_cuis
+respiratory failure,respiratory acidosis,disjoint_annotated_cuis
+restrictive cardiomyopathy,cardiomyopathy,disjoint_annotated_cuis
+retinal vasculopathy with cerebral leukodystrophy,"[""hereditary endotheliopathy retinopathy nephropathy and stroke"", ""hereditary vascular retinopathy""]",ambiguous_or_short_alias
+rhizomelic chondrodysplasia punctata type 3,rhizomelic syndrome,disjoint_annotated_cuis
+rhizomelic syndrome,rhizomelic chondrodysplasia punctata type 3,disjoint_annotated_cuis
+saccharopinuria,hyperlysinemia,disjoint_annotated_cuis
+scheie syndrome,mucopolysaccharidosis type i,disjoint_annotated_cuis
+scleroderma,"[""localized scleroderma"", ""systemic scleroderma""]",ambiguous_or_short_alias
+scot deficiency,succinyl coa 3 ketoacid coa transferase deficiency,disjoint_annotated_cuis
+senior loken syndrome,"[""medullary cystic kidney disease"", ""senior lken syndrome""]",ambiguous_or_short_alias
+sensorineural deafness and male infertility,deafness infertility syndrome,disjoint_annotated_cuis
+sepiapterin reductase deficiency,dopa responsive dystonia,disjoint_annotated_cuis
+severe achondroplasia with developmental delay and acanthosis nigricans,saddan,disjoint_annotated_cuis
+severe combined immunodeficiency,severe combined immunodeficiency atypical,disjoint_annotated_cuis
+severe combined immunodeficiency atypical,severe combined immunodeficiency,disjoint_annotated_cuis
+short stature hyperextensibility hernia ocular depression rieger anomaly and teething delay,short syndrome,disjoint_annotated_cuis
+short syndrome,short stature hyperextensibility hernia ocular depression rieger anomaly and teething delay,disjoint_annotated_cuis
+sialadenitis,salivary gland infections,disjoint_annotated_cuis
+silver syndrome,"[""russell silver syndrome"", ""spastic paraplegia 17""]",ambiguous_or_short_alias
+sjogren s syndrome,sjgren syndrome,disjoint_annotated_cuis
+slc4a1 associated distal renal tubular acidosis,renal tubular acidosis distal autosomal dominant,disjoint_annotated_cuis
+small cell carcinoma of the bladder,bladder cancer,disjoint_annotated_cuis
+small cell lung cancer,lung cancer small cell,disjoint_annotated_cuis
+small intestine cancer,intestinal cancer,disjoint_annotated_cuis
+soft tissue sarcoma,rhabdomyosarcoma,disjoint_annotated_cuis
+somatic symptom disorder,illness anxiety disorder,disjoint_annotated_cuis
+spina bifida,"[""myelomeningocele"", ""spina bifida occulta""]",ambiguous_or_short_alias
+spinal cord injury,"[""spinal cord trauma"", ""spinal injury""]",ambiguous_or_short_alias
+spinal muscular atrophy,"[""spinal muscular atrophy ryukyuan type"", ""spinal muscular atrophy type 1 with congenital bone fractures"", ""spinal muscular atrophy type 3"", ""spinal muscular atrophy with respiratory distress 1""]",ambiguous_or_short_alias
+spondyloepiphyseal dysplasia,x linked spondyloepiphyseal dysplasia tarda,disjoint_annotated_cuis
+spondyloepiphyseal dysplasia maroteaux type,brachyolmia,disjoint_annotated_cuis
+squamous cell carcinoma of the head and neck,head and neck squamous cell carcinoma,disjoint_annotated_cuis
+squamous cell skin cancer,squamous cell carcinoma,disjoint_annotated_cuis
+stevens johnson syndrome,"[""erythema multiforme"", ""stevens johnson syndrome toxic epidermal necrolysis""]",ambiguous_or_short_alias
+stickler syndrome,"[""stickler syndrome type 1"", ""stickler syndrome type 2""]",ambiguous_or_short_alias
+striatonigral degeneration,multiple system atrophy,disjoint_annotated_cuis
+subarachnoid hemorrhage,hemorrhagic stroke,disjoint_annotated_cuis
+sunburn,sun exposure,disjoint_annotated_cuis
+systemic lupus erythematosus,lupus,disjoint_annotated_cuis
+systemic scleroderma,"[""diffuse cutaneous systemic sclerosis"", ""limited cutaneous systemic sclerosis"", ""limited systemic sclerosis"", ""scleroderma""]",ambiguous_or_short_alias
+thalassemia,"[""alpha thalassemia"", ""beta thalassemia""]",ambiguous_or_short_alias
+thoracic aortic aneurysm,familial thoracic aortic aneurysm and dissection,disjoint_annotated_cuis
+throat cancer,throat or larynx cancer,disjoint_annotated_cuis
+torg winchester syndrome,multicentric osteolysis nodulosis and arthropathy,disjoint_annotated_cuis
+toxic nodular goiter,goiter simple,disjoint_annotated_cuis
+toxocariasis,visceral larva migrans,disjoint_annotated_cuis
+transient familial hyperbilirubinemia,lucey driscoll syndrome,disjoint_annotated_cuis
+treacher collins syndrome,treacher collins syndrome 3,disjoint_annotated_cuis
+treacher collins syndrome 3,treacher collins syndrome,disjoint_annotated_cuis
+trichothiodystrophy,"[""ibids syndrome"", ""trichothiodystrophy nonphotosensitive"", ""trichothiodystrophy photosensitive""]",ambiguous_or_short_alias
+trichothiodystrophy nonphotosensitive,ibids syndrome,disjoint_annotated_cuis
+trichothiodystrophy photosensitive,ibids syndrome,disjoint_annotated_cuis
+tumor,cancer,disjoint_annotated_cuis
+type 1 diabetes,"[""diabetes"", ""diabetes mellitus type 1""]",ambiguous_or_short_alias
+type 2 diabetes,"[""diabetes"", ""diabetes type 2""]",ambiguous_or_short_alias
+tyrosine hydroxylase deficiency,dopa responsive dystonia,disjoint_annotated_cuis
+ulcerative proctitis,ulcerative colitis,disjoint_annotated_cuis
+ullrich congenital muscular dystrophy,muscular dystrophy congenital merosin positive,disjoint_annotated_cuis
+urea cycle disorders,"[""arginase deficiency"", ""carbamoyl phosphate synthetase 1 deficiency"", ""citrullinemia type i"", ""n acetylglutamate synthetase deficiency"", ""ornithine transcarbamylase deficiency"", ""ornithine translocase deficiency syndrome""]",ambiguous_or_short_alias
+uromodulin associated kidney disease,familial juvenile hyperuricaemic nephropathy,disjoint_annotated_cuis
+uterine cancer,endometrial cancer,disjoint_annotated_cuis
+vaginal cancer,vaginal tumors,disjoint_annotated_cuis
+vascular dementia,dementia,disjoint_annotated_cuis
+viral pneumonia,cmv pneumonia,disjoint_annotated_cuis
+voice disorders,speech disorders children,disjoint_annotated_cuis
+waardenburg syndrome,"[""waardenburg syndrome type 2"", ""waardenburg syndrome type 2a"", ""waardenburg syndrome type 2b"", ""waardenburg syndrome type 3""]",ambiguous_or_short_alias
+waardenburg syndrome type 2,waardenburg syndrome,disjoint_annotated_cuis
+waardenburg syndrome type 2a,waardenburg syndrome,disjoint_annotated_cuis
+waardenburg syndrome type 2b,waardenburg syndrome,disjoint_annotated_cuis
+waardenburg syndrome type 3,waardenburg syndrome,disjoint_annotated_cuis
+wasp sting,insect bites and stings,disjoint_annotated_cuis
+waterhouse friderichsen syndrome,waterhousefriderichsen syndrome,disjoint_annotated_cuis
+weissenbacher zweymller syndrome,weissenbacher zweymuller syndrome,disjoint_annotated_cuis
+wheezing,stridor,disjoint_annotated_cuis
+whiplash,neck pain,disjoint_annotated_cuis
+wilms tumor,wagr syndrome,disjoint_annotated_cuis
+x linked adrenoleukodystrophy,"[""adrenoleukodystrophy"", ""childhood onset cerebral x linked adrenoleukodystrophy""]",ambiguous_or_short_alias
+x linked hyper igm syndrome,immunodeficiency with hyper igm type 1,disjoint_annotated_cuis
+x linked hypophosphatemia,hypophosphatemic rickets,disjoint_annotated_cuis
+x linked sideroblastic anemia and ataxia,anemia sideroblastic and spinocerebellar ataxia,disjoint_annotated_cuis
+zellweger spectrum,"[""neonatal adrenoleukodystrophy"", ""refsum disease infantile form"", ""zellweger spectrum disorder""]",ambiguous_or_short_alias

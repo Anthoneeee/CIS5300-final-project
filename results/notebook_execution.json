@@ -1,0 +1,26 @@
+[
+  {
+    "notebook": "01_data_preparation.ipynb",
+    "code_cells": 6,
+    "fresh_kernel": true,
+    "errors": 0
+  },
+  {
+    "notebook": "02_models_and_extensions.ipynb",
+    "code_cells": 5,
+    "fresh_kernel": true,
+    "errors": 0
+  },
+  {
+    "notebook": "03_evaluation_and_errors.ipynb",
+    "code_cells": 5,
+    "fresh_kernel": true,
+    "errors": 0
+  },
+  {
+    "notebook": "04_demo.ipynb",
+    "code_cells": 4,
+    "fresh_kernel": true,
+    "errors": 0
+  }
+]

@@ -1,0 +1,47 @@
+label,source,questions
+Basic information,ADAM,2585
+Basic information,CDC,39
+Basic information,CancerGov,78
+Basic information,GARD,1223
+Basic information,GHR,689
+Basic information,MPlusHealthTopics,414
+Basic information,NHLBI,24
+Basic information,NIDDK,96
+Basic information,NIHSeniorHealth,17
+Basic information,NINDS,137
+Causes,ADAM,1708
+Causes,CDC,1
+Causes,CancerGov,7
+Causes,GARD,369
+Causes,NHLBI,39
+Causes,NIDDK,71
+Causes,NIHSeniorHealth,22
+Diagnosis and tests,ADAM,1403
+Diagnosis and tests,CDC,44
+Diagnosis and tests,CancerGov,65
+Diagnosis and tests,GARD,245
+Diagnosis and tests,NHLBI,42
+Diagnosis and tests,NIDDK,74
+Diagnosis and tests,NIHSeniorHealth,18
+Prevention,ADAM,1028
+Prevention,CDC,48
+Prevention,CancerGov,6
+Prevention,NHLBI,37
+Prevention,NIDDK,41
+Prevention,NIHSeniorHealth,15
+Symptoms,ADAM,1587
+Symptoms,CDC,17
+Symptoms,CancerGov,66
+Symptoms,GARD,2219
+Symptoms,NHLBI,44
+Symptoms,NIDDK,77
+Symptoms,NIHSeniorHealth,29
+Treatment,ADAM,1459
+Treatment,CDC,46
+Treatment,CancerGov,76
+Treatment,GARD,479
+Treatment,GHR,843
+Treatment,NHLBI,38
+Treatment,NIDDK,82
+Treatment,NIHSeniorHealth,27
+Treatment,NINDS,171

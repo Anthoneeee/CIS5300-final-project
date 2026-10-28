@@ -1,0 +1,10 @@
+# Tested on Python 3.13.9. Use Python 3.10 or newer with these pins.
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.16.3
+scikit-learn==1.7.2
+joblib==1.5.2
+matplotlib==3.10.6
+nbformat==5.10.4
+nbclient==0.10.2
+ipykernel==6.31.0

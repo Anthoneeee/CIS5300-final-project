@@ -1,0 +1,20 @@
+{
+  "run_id": "ai_unreviewed_001",
+  "augmentation_policy": "ai_exploratory",
+  "original_train_n": 14158,
+  "paraphrase_n": 180,
+  "augmented_train_n": 14338,
+  "dev_n": 1880,
+  "class_counts": {
+    "Basic information": 30,
+    "Symptoms": 30,
+    "Causes": 30,
+    "Diagnosis and tests": 30,
+    "Treatment": 30,
+    "Prevention": 30
+  },
+  "same_augmented_table_for_M4_M5": true,
+  "human_reviewed_protocol_satisfied": false,
+  "test_evaluated": false,
+  "started_at_utc": "2026-10-22T18:21:18.700653+00:00"
+}

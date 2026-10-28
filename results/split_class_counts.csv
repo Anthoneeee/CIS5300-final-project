@@ -1,0 +1,4 @@
+split,Basic information,Symptoms,Causes,Diagnosis and tests,Treatment,Prevention
+dev,543,405,238,212,352,130
+test,539,401,221,194,330,122
+train,4220,3233,1758,1485,2539,923

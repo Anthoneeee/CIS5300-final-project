@@ -1,0 +1,12 @@
+source_file,issue,detail
+5_NIDDK_QA/0000056.xml,no_questions,Document
+5_NIDDK_QA/0000064.xml,no_questions,Document
+5_NIDDK_QA/0000065.xml,no_questions,Document
+5_NIDDK_QA/0000077.xml,no_questions,Document
+5_NIDDK_QA/0000175.xml,no_questions,Document
+5_NIDDK_QA/0000177.xml,no_questions,Document
+6_NINDS_QA/0000007.xml,legacy_schema_supported,doc
+6_NINDS_QA/0000018.xml,legacy_schema_supported,doc
+6_NINDS_QA/0000182.xml,legacy_schema_supported,doc
+6_NINDS_QA/0000244.xml,legacy_schema_supported,doc
+9_CDC_QA/0000397.xml,legacy_schema_supported,DiseaseFile

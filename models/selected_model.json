@@ -1,0 +1,5 @@
+{
+  "model_id": "M2",
+  "selection_split": "dev",
+  "selection_metric": "macro_f1 (accuracy, then simpler model for ties)"
+}

@@ -1,0 +1,26 @@
+{
+  "new_review_tests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "candidate_checks": {
+    "rows": 180,
+    "review_status": {
+      "pending": 180
+    },
+    "nonblank_paraphrases": 0,
+    "parents_in_frozen_train": true,
+    "metadata_matches_parents": true,
+    "exact_cross_split_candidate_duplicates": 0
+  },
+  "selection_reproduced": true,
+  "existing_review_bundle_preserved_on_rerun": true,
+  "protected_existing_files_verified": 69,
+  "existing_training_source_and_model_hashes_match": true,
+  "candidate_worksheet_sha256": "316bc1730e998be6da88b132b12813f1060aeb35d6882e68f20090ae14c46696",
+  "original_split_sha256": "6e67ba6b510efeea0a567fd0963842ca03297c19ba6d5fd17de959061b69fe66",
+  "train_augmented_created": false,
+  "M4_M5_trained": false,
+  "final_test_evaluated": false,
+  "stop_reason": "Waiting for the user to write and actually review the training paraphrases."
+}

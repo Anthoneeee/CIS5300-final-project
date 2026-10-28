@@ -1,0 +1,3 @@
+question_id,question_text,label,disease_group,split,model_id,prediction,augmentation_policy,human_error_category,human_notes
+10_MPlus_ADAM_QA/0002030.xml::0002030-1,What is (are) How to prevent frostbite and hypothermia ?,Basic information,how to prevent frostbite and hypothermia,dev,M4,Prevention,ai_exploratory,,
+10_MPlus_ADAM_QA/0002030.xml::0002030-1,What is (are) How to prevent frostbite and hypothermia ?,Basic information,how to prevent frostbite and hypothermia,dev,M5,Prevention,ai_exploratory,,

@@ -1,0 +1,18 @@
+{
+  "seed": 5220,
+  "upstream_url": "https://github.com/abachaa/MedQuAD.git",
+  "upstream_commit": "577bd37b96c02d1833b2c9eed2de9f96964e96cb",
+  "label_map": {
+    "information": "Basic information",
+    "symptoms": "Symptoms",
+    "causes": "Causes",
+    "exams and tests": "Diagnosis and tests",
+    "treatment": "Treatment",
+    "prevention": "Prevention"
+  },
+  "c_grid": [0.1, 1.0, 10.0],
+  "word_ngrams": [1, 2],
+  "char_ngrams": [3, 5],
+  "train_parents_per_class": 30,
+  "test_parents_per_class": 20
+}

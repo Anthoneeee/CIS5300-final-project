@@ -1,0 +1,30 @@
+{
+  "priority_order": [
+    [
+      "Prevention",
+      "\\b(prevent\\w*|avoid|reduce (?:the )?risk)\\b"
+    ],
+    [
+      "Diagnosis and tests",
+      "\\b(diagnos\\w*|tests?|testing|screen\\w*|detect\\w*)\\b"
+    ],
+    [
+      "Symptoms",
+      "\\b(symptoms?|signs?|manifestations?)\\b"
+    ],
+    [
+      "Causes",
+      "\\b(caus\\w*|why|etiology)\\b"
+    ],
+    [
+      "Treatment",
+      "\\b(treat\\w*|therap\\w*|cure\\w*|manag\\w*|medications?)\\b"
+    ],
+    [
+      "Basic information",
+      "^(what (?:is|are)|what is \\(are\\)|tell me about|do you have information)\\b"
+    ]
+  ],
+  "fallback": "training majority",
+  "source": "intent definitions; fixed before final testing"
+}

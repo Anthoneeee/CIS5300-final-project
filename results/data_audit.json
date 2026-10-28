@@ -1,0 +1,46 @@
+{
+  "raw_questions": 47457,
+  "retained_questions": 17845,
+  "xml_files": 11274,
+  "parsed_issues": {
+    "no_questions": 6,
+    "legacy_schema_supported": 5
+  },
+  "dispositions": {
+    "retained": 17845,
+    "non_disease_or_unknown_category": 15754,
+    "outside_six_intents": 10698,
+    "same_text_same_label_duplicate": 3148,
+    "missing_focus": 12
+  },
+  "classes": {
+    "Basic information": 5302,
+    "Symptoms": 4039,
+    "Treatment": 3221,
+    "Causes": 2217,
+    "Diagnosis and tests": 1891,
+    "Prevention": 1175
+  },
+  "disease_groups": 6238,
+  "splits": {
+    "train": {
+      "questions": 14158,
+      "groups": 4990
+    },
+    "dev": {
+      "questions": 1880,
+      "groups": 624
+    },
+    "test": {
+      "questions": 1807,
+      "groups": 624
+    }
+  },
+  "cross_split_disease_groups": 0,
+  "cross_split_normalized_duplicate_questions": 0,
+  "unresolved_cross_split_cui_count": 471,
+  "grouping_claim": "available annotated focus/synonym grouping; not full medical concept isolation",
+  "split_sha256": "6e67ba6b510efeea0a567fd0963842ca03297c19ba6d5fd17de959061b69fe66",
+  "dataset_approval": "pending_user_confirmation",
+  "six_classes_fixed_before_modeling": true
+}

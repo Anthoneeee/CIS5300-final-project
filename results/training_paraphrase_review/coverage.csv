@@ -1,0 +1,7 @@
+label,available_train_questions,selected_questions,selected_disease_groups,available_templates,selected_templates
+Basic information,4220,30,30,8,8
+Symptoms,3233,30,30,3,3
+Causes,1758,30,30,1,1
+Diagnosis and tests,1485,30,30,4,4
+Treatment,2539,30,30,6,6
+Prevention,923,30,28,7,7
